@@ -41,7 +41,7 @@ public class Main {
         pix1.setChavePix("87238279");
         pix1.setValor(8328.23F);
         pix1.pagar();
-        pix1.ultimosDigitos()
+        pix1.ultimosDigitos();
 
 
     }
